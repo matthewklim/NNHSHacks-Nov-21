@@ -71,3 +71,6 @@ Your greatest and most limited resource in life is time. You will need to learn 
 
 _Disclaimer: I will update images when I find better ones!_
 
+## Example Project
+
+Get and idea of what data preperation and visualization can look like in a Tableau Dashboard ([US Agriculture data](https://github.com/mklim26/us-agriculture)).
